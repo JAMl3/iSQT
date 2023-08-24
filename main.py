@@ -219,7 +219,7 @@ root.resizable(False, False)
 
 # Load and display the image logo
 logo_image = Image.open("company_Logo.png")
-resized_logo = logo_image.resize((200, 100))  # Adjust the size as needed
+resized_logo = logo_image.resize((200, 100)) 
 logo_photo = ImageTk.PhotoImage(resized_logo)
 
 
