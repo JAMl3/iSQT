@@ -64,16 +64,13 @@ python script_name.py
 
 1. Run the script using the provided installation steps.
 2. Click the "Connect" button to enter your database credentials.
-3. Update the following parameters in the script according to your IBM iSeries setup:
-    - Replace `YOUR_SERVER_IP` with the actual IP address of your iSeries server.
-    - Replace `YOUR_LIBRARY_NAME` with the name of your library on the iSeries server.
-4. Select a table from the dropdown list.
-5. Choose columns for your query from the list. You can also reorder columns using the "Move Up" and "Move Down" buttons.
-6. Click the "Show Results" button to execute the query and display results in the text box.
-7. Use the search bar and "Search" button to find specific text within the results.
-8. Use the "Next" button to navigate through search results.
-9. Use the "Export To Excel" button to save query results as an Excel file.
-10. Use the "Copy to Clipboard" button to copy query results to the clipboard.
+3. Select a table from the dropdown list.
+4. Choose columns for your query from the list. You can also reorder columns using the "Move Up" and "Move Down" buttons.
+5. Click the "Show Results" button to execute the query and display results in the text box.
+6. Use the search bar and "Search" button to find specific text within the results.
+7. Use the "Next" button to navigate through search results.
+8. Use the "Export To Excel" button to save query results as an Excel file.
+9. Use the "Copy to Clipboard" button to copy query results to the clipboard.
 
 
 
