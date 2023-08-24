@@ -3,15 +3,19 @@
 The iSeries Query Tool is a Python application that provides a graphical user interface for querying an IBM iSeries (AS/400) database. It allows users to connect to the database, execute SQL queries, visualize and export results, and more.
 
 Start Up
+
 ![image](https://github.com/JAMl3/iSQT/assets/97791913/73d20de7-450a-4337-8865-c9dfdc061fa3)
 
 Login
+
 ![image](https://github.com/JAMl3/iSQT/assets/97791913/bfe567d2-c44f-4b25-9934-689a85257e7c)
 
 Select database query
+
 ![image](https://github.com/JAMl3/iSQT/assets/97791913/e19b2e3d-9523-4bb5-9ac6-b458a800f8b1)
 
 View results/ Reorder columns/ Copy all to clipboard/ Export to excel/ Search
+
 ![image](https://github.com/JAMl3/iSQT/assets/97791913/76fc9f49-9921-425e-83b4-0aea7649aada)
 
 
